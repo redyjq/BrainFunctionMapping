@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Viewport>
+  <Camera>
+    <PositionX>115.223915363766</PositionX>
+    <PositionY>-16.2156982421875</PositionY>
+    <PositionZ>478.84742678403</PositionZ>
+    <FocalPointX>-0.103549957275391</FocalPointX>
+    <FocalPointY>-16.2156982421875</FocalPointY>
+    <FocalPointZ>15.9785003662109</FocalPointZ>
+    <Roll>0</Roll>
+  </Camera>
+</Viewport>
