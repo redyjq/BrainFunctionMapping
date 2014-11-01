@@ -13,7 +13,7 @@ It can also be used for visualizing brain functional connectivity or activation 
 
 ## Features
 
-It currently consists of the following fucntions:
+It currently consists of the following functions:
 
 1. Import and render brain model from file of vertices and triangle faces;
 2. Mannual register electrodes,with options to change node size, color, and coordinate;
