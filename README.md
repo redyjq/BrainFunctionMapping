@@ -31,5 +31,8 @@ It currently consists of the following functions:
 ## Installation
 Download the software [here](https://github.com/redyjq/BrainFunctionMapping/releases).
 
+## Documentation
+Read its document [here](http://wylmer_cn.gitbooks.io/brain-function-mapping-tool-document/content/).
+
 ## Notes
 The changelog file provides detailed changes until its current release.
