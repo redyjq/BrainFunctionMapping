@@ -48,3 +48,6 @@ BrainDescript_20141010
 	减小了label的size
 BrainDescript_20141020
 	添加了对ModelChecker的支持
+BrainDescript_20141114
+	修改了模型定位错误
+	增加了程序图标
